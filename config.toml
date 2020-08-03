@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "nullagent - Blog"
 theme        = "hello-friend-ng"
 paginate     = 10
+publishDir = "docs/"
 
 [params]
   dateform        = "Jan 2, 2006"
