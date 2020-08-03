@@ -1,4 +1,4 @@
-baseURL = "http://nullagent.com/"
+baseURL = "http://www.nullagent.com/"
 languageCode = "en-us"
 title = "nullagent - Blog"
 theme        = "hello-friend-ng"
