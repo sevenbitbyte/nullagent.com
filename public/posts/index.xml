@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on nullagent</title>
+        <link>http://nullagent.com/posts/</link>
+        <description>Recent content in Posts on nullagent</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 02 Aug 2020 16:43:35 -0700</lastBuildDate>
+        <atom:link href="http://nullagent.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World Post</title>
+            <link>http://nullagent.com/posts/hello-world-post/</link>
+            <pubDate>Sun, 02 Aug 2020 16:43:35 -0700</pubDate>
+            
+            <guid>http://nullagent.com/posts/hello-world-post/</guid>
+            <description>Oh hi welcome to my blog</description>
+            <content type="html"><![CDATA[<p>Oh hi welcome to my blog</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
