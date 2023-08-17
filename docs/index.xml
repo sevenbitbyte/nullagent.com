@@ -6,29 +6,6 @@
     <description>Recent content on nullagent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 02 Aug 2020 16:43:35 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.nullagent.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>http://www.nullagent.com/about/</link>
-      <pubDate>Sun, 02 Aug 2020 19:34:07 -0700</pubDate>
-      
-      <guid>http://www.nullagent.com/about/</guid>
-      <description>Testing</description>
-    </item>
-    
-    <item>
-      <title>Hello World Post</title>
-      <link>http://www.nullagent.com/posts/hello-world-post/</link>
-      <pubDate>Sun, 02 Aug 2020 16:43:35 -0700</pubDate>
-      
-      <guid>http://www.nullagent.com/posts/hello-world-post/</guid>
-      <description>Oh hi welcome to my blog</description>
-    </item>
-    
+    <copyright>All rights reserved</copyright><atom:link href="http://www.nullagent.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

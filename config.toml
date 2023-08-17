@@ -5,11 +5,16 @@ theme        = "hello-friend-ng"
 paginate     = 10
 publishDir = "docs/"
 
+[author]
+ name = "nullagent"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+
+
 
   # Subtitle for home
   homeSubtitle = "Open Source Hacker"
@@ -28,6 +33,23 @@ publishDir = "docs/"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/sevenbitbyte"
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/nullagent"
+  [[params.social]]
+    name = "mastodon"
+    url  = "https://partyon.xyz/@nullagent"
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/nullagent"
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/@nullagent-hacks"
+
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
@@ -38,7 +60,7 @@ publishDir = "docs/"
     title = "nullagent"
     subtitle = "Open Source Hacker2"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = 'All rights reserved'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
