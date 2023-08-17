@@ -1,43 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://www.nullagent.com/about/</loc>
-    <lastmod>2020-08-02T19:34:07-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nullagent.com/posts/hello-world-post/</loc>
-    <lastmod>2020-08-02T16:43:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nullagent.com/</loc>
-    <lastmod>2020-08-02T16:43:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nullagent.com/posts/</loc>
-    <lastmod>2020-08-02T16:43:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nullagent.com/tags/</loc>
-    <lastmod>2020-08-02T16:43:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nullagent.com/tags/untagged/</loc>
-    <lastmod>2020-08-02T16:43:35-07:00</lastmod>
-  </url>
-  
   <url>
     <loc>http://www.nullagent.com/blog/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.nullagent.com/</loc>
+  </url><url>
     <loc>http://www.nullagent.com/series/</loc>
+  </url><url>
+    <loc>http://www.nullagent.com/tags/</loc>
   </url>
-  
 </urlset>
