@@ -37,17 +37,21 @@ publishDir = "docs/"
     name = "github"
     url  = "https://github.com/sevenbitbyte"
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/nullagent"
-  [[params.social]]
     name = "mastodon"
     url  = "https://partyon.xyz/@nullagent"
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/nullagent"
   [[params.social]]
     name = "instagram"
     url  = "https://instagram.com/nullagent"
   [[params.social]]
+    name = "medium"
+    url  = "https://medium.com/@alanmeekins"
+  [[params.social]]
     name = "youtube"
     url  = "https://www.youtube.com/@nullagent-hacks"
+
 
 
 [taxonomies]
