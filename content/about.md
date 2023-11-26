@@ -4,4 +4,5 @@ date: 2020-08-02T19:34:07-07:00
 draft: true
 ---
 
-Testing
+Cypherpunk glitching pixels, verts and hertz
+
